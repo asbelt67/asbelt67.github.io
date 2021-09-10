@@ -46,7 +46,7 @@ github_username:  asbelt67
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+# about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   XXX
   
@@ -116,9 +116,6 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
         XXX
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
